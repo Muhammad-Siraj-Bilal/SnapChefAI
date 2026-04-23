@@ -1,8 +1,8 @@
 # Hi Grandma! 👵
 
-So since you asked what I’ve been building, here’s the easy version of **SnapChef AI**.
+Sooo since you asked what I’ve been building, here’s the easy version of my personal cooking assistant: **SnapChef AI**.
 
-It’s basically my own little smart cooking helper.
+It’s basically my own little smart cooking helper :)
 
 ### 1. What is it?
 
