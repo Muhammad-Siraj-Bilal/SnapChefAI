@@ -73,7 +73,14 @@ logger = logging.getLogger(__name__)
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     logger.info("SnapChef AI starting up...")
-    # RAG will initialize on first request to avoid blocking startup
+    # PRE-WARM: Load the embedding model and vector store into memory immediately on boot
+    try:
+        from rag.knowledge_base import get_vector_store
+        # This triggers the download/loading of the model during server bootup
+        get_vector_store() 
+        logger.info("SnapChef AI: RAG knowledge base pre-warmed and ready.")
+    except Exception as e:
+        logger.warning(f"Failed to pre-warm RAG: {e}")
     yield
     logger.info("SnapChef AI shutting down.")
 

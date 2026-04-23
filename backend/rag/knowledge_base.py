@@ -36,6 +36,8 @@ def get_embeddings() -> HuggingFaceEmbeddings:
             cache_folder=cache_folder,
             model_kwargs={"device": "cpu"},
             encode_kwargs={"normalize_embeddings": True},
+            # Strict offline mode ensures we never pause to check the internet
+            multi_process=False,
         )
     return _embeddings
 
