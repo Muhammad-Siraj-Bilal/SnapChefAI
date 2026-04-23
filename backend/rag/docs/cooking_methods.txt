@@ -1,0 +1,158 @@
+COOKING METHODS: TEMPERATURES, TIMES & CONVERSIONS
+====================================================
+
+This guide covers heat conversion, cooking time adjustments, and technique notes for all common kitchen equipment.
+
+== CONVENTIONAL OVEN TEMPERATURES ==
+Description          | °C    | °F    | Gas Mark
+Very Low / Warm      | 120   | 250   | ½
+Low                  | 150   | 300   | 2
+Moderate-Low         | 160   | 325   | 3
+Moderate             | 180   | 350   | 4
+Moderate-High        | 190   | 375   | 5
+High                 | 200   | 400   | 6
+Very High            | 220   | 425   | 7
+Extremely High       | 230   | 450   | 8
+Broil/Grill          | 250+  | 480+  | 9
+
+Fan-assisted (convection) oven: Reduce temperature by 20°C (35°F) or reduce time by 25%.
+
+== AIR FRYER CONVERSIONS ==
+Air fryers use rapid circulating hot air. General rules:
+- Reduce conventional oven temperature by 15–20°C (25–30°F)
+- Reduce cooking time by 20–25%
+- Preheat for 3–5 minutes unless recipe says otherwise
+- Shake basket or flip halfway through cooking
+- Do NOT overcrowd — leave space for air circulation
+
+Common Air Fryer Times & Temperatures:
+Food                     | Temp (°C) | Time (min) | Notes
+Chicken breast           | 190       | 18–22      | Flip at halfway
+Chicken thighs (bone-in) | 200       | 25–30      | Skin up, flip once
+Chicken wings            | 200       | 24–28      | Toss in sauce after
+Salmon fillet            | 180       | 10–12      | No flip needed
+Shrimp                   | 190       | 6–8        | Single layer
+Pork chops               | 195       | 14–18      | Flip halfway
+Steak (med-rare, 2.5cm)  | 200       | 10–14      | Rest 3 min after
+Frozen fries             | 200       | 12–16      | Shake halfway
+Fresh fries (thick cut)  | 190       | 18–22      | Pat dry first
+Vegetables (dense)       | 195       | 12–15      | Broccoli, carrots
+Vegetables (tender)      | 185       | 8–10       | Zucchini, peppers
+Brussels sprouts         | 195       | 12–15      | Halved, toss in oil
+Cauliflower              | 195       | 12–15      | Florets, toss in oil
+Asparagus                | 190       | 8–10       | Single layer
+Eggs (hard)              | 130       | 15         | Place in basket
+Bacon rashers            | 185       | 8–10       | Lay flat
+Sausages                 | 185       | 12–15      | Turn once
+Meatballs                | 200       | 12–15      | Shake halfway
+Burger patties           | 200       | 12–16      | Flip once
+Tofu (firm, cubed)       | 195       | 15–20      | Press dry first
+Falafel (formed)         | 190       | 12–15      | Flip halfway
+Reheating leftovers      | 160       | 3–5        | Check centre temp
+Spring rolls/samosas     | 190       | 8–12       | Brush with oil
+
+== INSTANT POT / PRESSURE COOKER ==
+
+Pressure settings: Low (5.8 PSI) | High (11.6 PSI)
+1 PSI increase = ~3°C above boiling point.
+
+High-Pressure Cook Times (natural release unless noted):
+Food                        | Minutes | Release Type
+Dried beans (pre-soaked)    | 8–12    | Natural 10 min
+Dried beans (unsoaked)      | 25–35   | Natural 10 min
+Lentils (red/green)         | 8–10    | Quick
+Chickpeas (unsoaked)        | 35–40   | Natural 15 min
+Brown rice                  | 22–24   | Natural 10 min
+White rice                  | 8       | Natural 10 min
+Quinoa                      | 1       | Natural 10 min
+Whole chicken (1.5kg)       | 25–30   | Natural 15 min
+Chicken breast (boneless)   | 8–10    | Quick
+Chicken thighs (bone-in)    | 12–15   | Natural 5 min
+Beef stew chunks            | 30–35   | Natural 15 min
+Pot roast (1.5kg)           | 60–75   | Natural 20 min
+Pork shoulder (per 500g)    | 20      | Natural 15 min
+Lamb shanks                 | 35–45   | Natural 15 min
+Fish fillets (2.5cm)        | 3–5     | Quick
+Hard boiled eggs            | 5       | Quick (ice bath)
+Baby potatoes               | 10      | Quick
+Whole potatoes (medium)     | 12–15   | Quick
+Sweet potatoes (cubed)      | 6–8     | Quick
+Carrots (chunked)           | 3–4     | Quick
+Vegetable soup              | 5–8     | Quick
+Bone broth                  | 120–180 | Natural
+Steel cut oats              | 4       | Natural 10 min
+
+Liquid requirements: Always add minimum 250ml (1 cup) liquid to Instant Pot.
+Pot-in-pot method: Place food in oven-safe bowl on trivet inside pot for delicate dishes.
+
+== STOVETOP HEAT LEVELS ==
+Setting       | Temperature | Use case
+Low           | 65–95°C     | Melt chocolate, keep sauce warm, steep
+Medium-Low    | 95–120°C    | Simmer, gentle sauces, scrambled eggs
+Medium        | 120–160°C   | Sauté vegetables, cook onions, pancakes
+Medium-High   | 160–200°C   | Sear, stir-fry, boil water faster
+High          | 200–260°C   | Deep fry, wok cooking, initial boil
+
+Sauté vs. fry vs. sear:
+- Sauté: Medium heat, small amount of fat, frequent stirring
+- Pan-fry: Medium-high heat, generous fat (shallow), occasional turning
+- Sear: High heat, minimal fat, quick browning to develop Maillard crust
+
+== MICROWAVE COOKING ==
+Power levels: 100% (High) = 700–1200W depending on model.
+
+Food                          | Power  | Time per 500g | Notes
+Vegetables (frozen)           | High   | 4–5 min       | Covered, stir halfway
+Fresh vegetables (steamed)    | High   | 3–4 min       | Add 2 tbsp water, covered
+Fish fillets                  | Medium | 4–6 min       | Covered, rest 1 min
+Chicken (pre-cooked, reheat)  | Medium | 2–3 min       | Cover, rest 1 min
+Rice (cooked, reheat)         | High   | 1–2 min       | Add 1 tbsp water, covered
+Soup                          | High   | 2–3 min       | Stir halfway
+Poached eggs                  | Medium | 1–1.5 min     | Crack into water, cover
+Scrambled eggs (2 eggs)       | High   | 1.5–2 min     | Stir at 30s intervals
+Chocolate (melt)              | Low    | 1–2 min       | Stir every 30s
+Butter (soften 100g)          | Low    | 20–30 s       | Watch carefully
+
+Microwave tips:
+- Arrange dense items at edge of plate, lighter items in centre
+- Pierce potato/squash skin before microwaving to prevent explosion
+- Cover food with microwave-safe lid or damp paper towel to retain moisture
+- Rotate/stir halfway for even heating
+
+== SOUS VIDE TEMPERATURES ==
+Food                     | Temp (°C) | Min Time  | Max Time
+Chicken breast (tender)  | 63.5      | 1 hr      | 4 hrs
+Chicken breast (firmer)  | 66        | 1 hr      | 4 hrs
+Chicken thigh            | 74        | 1 hr      | 6 hrs
+Duck breast              | 57        | 1.5 hrs   | 6 hrs
+Salmon (silky)           | 50        | 30 min    | 1 hr
+Salmon (firm)            | 54        | 30 min    | 1 hr
+Steak rare               | 54        | 1 hr      | 4 hrs
+Steak medium-rare        | 57        | 1 hr      | 4 hrs
+Steak medium             | 63        | 1 hr      | 4 hrs
+Pork chops (juicy)       | 60        | 1 hr      | 4 hrs
+Pork shoulder (pull)     | 74        | 24 hrs    | 36 hrs
+Lamb rack                | 57        | 2 hrs     | 8 hrs
+Carrots                  | 85        | 1 hr      | 4 hrs
+Potatoes                 | 87        | 1.5 hrs   | 4 hrs
+Asparagus                | 85        | 10 min    | 30 min
+Eggs (soft, runny)       | 63        | 45 min    | 1.5 hrs
+Eggs (custard-like)      | 65        | 1 hr      | 2 hrs
+
+Always finish sous vide proteins with a 1–2 minute sear (high heat skillet) for Maillard crust.
+
+== DEEP FRYING ==
+Oil                   | Smoke Point (°C) | Best for
+Avocado oil           | 271              | All-purpose high-heat frying
+Refined peanut oil    | 232              | Traditional deep frying
+Sunflower oil         | 227              | Light frying
+Refined coconut oil   | 204              | South Asian frying
+Canola/rapeseed oil   | 204              | Everyday frying
+Olive oil (extra lt.) | 190              | Light sautéing only
+
+Frying temperature guide:
+160–170°C: Cakes, doughnuts, soft items
+180°C: Chips/fries, breaded chicken, fish
+190°C: Quick-fry items, churros, fritters
+
+Test temperature without thermometer: Drop a small piece of bread — golden in 30 seconds = ~180°C.

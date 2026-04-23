@@ -1,0 +1,147 @@
+NUTRITION BASICS: MACRONUTRIENTS & KEY INGREDIENTS
+===================================================
+
+A practical guide to the nutritional profiles of common ingredients, macros, and micronutrients — to help build balanced, informed recipes.
+
+== MACRONUTRIENT OVERVIEW ==
+
+Protein (4 cal/g): Essential for muscle repair, enzymes, immune function. Complete proteins contain all 9 essential amino acids.
+Carbohydrates (4 cal/g): Primary energy source. Complex carbs (whole grains, legumes) digest slowly (lower GI). Simple carbs digest fast (spikes blood sugar).
+Fats (9 cal/g): Essential for hormones, cell membranes, fat-soluble vitamin absorption (A, D, E, K).
+Fibre (0 cal): Feeds gut bacteria, regulates blood sugar and cholesterol. Target: 25–38g per day.
+
+Glycaemic Index (GI):
+- Low GI (< 55): Slow glucose release. Beans, most vegetables, whole grains. Best for sustained energy and blood sugar control.
+- Medium GI (55–69): Moderate. Whole wheat bread (~71), basmati rice (~58).
+- High GI (> 70): Fast release. White bread (~75), white rice (~73), baked potato (~85).
+
+== PROTEIN SOURCES — Per 100g Cooked ==
+
+Animal Protein:
+Food                     | Protein (g) | Fat (g) | Calories | Notes
+Chicken breast (skinless)| 31          | 3.6     | 165      | Low fat; complete protein
+Chicken thigh (skinless) | 26          | 9       | 190      | More flavour; more fat
+Turkey breast            | 29          | 1       | 135      | Very lean; high in tryptophan
+Salmon (Atlantic)        | 25          | 13      | 208      | Rich in omega-3 (EPA/DHA)
+Tuna (canned in water)   | 26          | 1       | 116      | Very lean; high mercury; limit to 2x/week
+Cod                      | 23          | 0.7     | 109      | Very lean white fish
+Shrimp/Prawns            | 24          | 1       | 119      | Low calorie; high in iodine
+Egg (1 large, 50g)       | 6           | 5       | 78       | Complete protein; choline-rich
+Egg white (1)            | 3.6         | 0       | 17       | Pure lean protein
+Greek yogurt (full-fat)  | 10          | 5       | 97       | Probiotics; calcium; casein
+Cow's milk (whole)       | 3.4         | 3.5     | 65/100ml | Rich in calcium + B12
+Beef (lean sirloin)      | 27          | 6       | 165      | High in iron (haem), zinc, B12
+Pork tenderloin          | 29          | 4       | 155      | Lean cut; high in thiamine (B1)
+Lamb (leg)               | 26          | 8       | 182      | Rich in zinc + B12
+
+Plant Protein:
+Food                     | Protein (g) | Fat (g) | Fibre (g) | Calories | Notes
+Lentils (cooked)         | 9           | 0.4     | 8         | 116      | Good iron; eat with vitamin C for absorption
+Chickpeas (cooked)       | 9           | 3       | 8         | 164      | High in folate; versatile
+Black beans (cooked)     | 8.9         | 0.5     | 8.7       | 132      | High in antioxidants (anthocyanins)
+Kidney beans (cooked)    | 8.7         | 0.5     | 6.4       | 127      | High in iron and folate
+Edamame (shelled)        | 12          | 5       | 5         | 122      | Complete protein; soy
+Firm tofu                | 10          | 5       | 0.4       | 90       | Complete protein; adaptable
+Tempeh                   | 19          | 11      | 0         | 196      | Fermented; more bioavailable than tofu
+Seitan (wheat gluten)    | 25          | 1.5     | 1         | 150      | Very high protein; NOT gluten-free
+Hemp hearts              | 10          | 14      | 1         | 166      | Complete protein; omega-3 rich
+Quinoa (cooked)          | 4.4         | 2       | 2.8       | 120      | Complete protein; mineral-rich
+Pumpkin seeds (raw)      | 19          | 19      | 1.1       | 559      | Very high in magnesium + zinc (per 100g raw)
+Peanut butter (2 tbsp)   | 8           | 16      | 2         | 190      | Complete amino profile
+Almonds (23 nuts = 30g)  | 6           | 14      | 3.5       | 164      | Rich in vitamin E + magnesium
+
+== CARBOHYDRATE SOURCES — Per 100g Cooked ==
+
+Food                     | Carbs (g) | Fibre (g) | GI   | Protein (g) | Notes
+White rice               | 28        | 0.4       | 73   | 2.7         | Lower in vitamins vs brown
+Brown rice               | 23        | 1.8       | 55   | 2.6         | More fibre; slightly lower GI
+Basmati rice (white)     | 28        | 0.5       | 58   | 3.5         | Lower GI than regular white rice
+Quinoa (cooked)          | 22        | 2.8       | 53   | 4.4         | Gluten-free; complete protein
+Oats (cooked)            | 12        | 1.7       | 55   | 2.4         | Beta-glucan fibre reduces LDL cholesterol
+White pasta              | 25        | 1.8       | 50   | 5           | Al dente has lower GI
+Whole wheat pasta        | 25        | 3.9       | 37   | 6           | Higher fibre and protein than white
+Sweet potato             | 20        | 3         | 50   | 1.6         | High in beta-carotene (vitamin A)
+White potato             | 17        | 2.1       | 85   | 2           | GI varies hugely by cooking method
+Bread (white, 1 slice)   | 14        | 0.6       | 75   | 2.5         | Minimal nutrients; minimal fibre
+Bread (wholegrain, 1sl.) | 12        | 1.9       | 51   | 3.5         | Significantly more fibre + micronutrients
+Sourdough (white, 1sl.)  | 14        | 0.8       | 54   | 3           | Fermentation lowers GI slightly
+Lentils (cooked)         | 20        | 8         | 32   | 9           | Excellent low-GI dual macro source
+Chickpeas (cooked)       | 27        | 8         | 28   | 9           | Very low GI; high fibre
+Banana (medium)          | 27        | 3.1       | 47   | 1.4         | GI lower than expected; high in potassium
+Apple (medium)           | 25        | 4.4       | 38   | 0.3         | Pectin fibre; low GI
+
+== HEALTHY FAT SOURCES — Per 100g ==
+
+Food                     | Fat (g) | Sat Fat (g) | Omega-3 (g) | Notes
+Avocado                  | 15      | 2.1         | 0.1         | Monounsaturated; high in potassium
+Extra virgin olive oil   | 100     | 14          | 0.8         | High in oleocanthal (anti-inflammatory)
+Ground flaxseed          | 42      | 3.7         | 22.8        | Highest plant omega-3 source
+Chia seeds               | 31      | 3.3         | 17.8        | Excellent omega-3; high fibre
+Walnuts                  | 65      | 6.1         | 9.1         | Best nut source of omega-3
+Almonds                  | 50      | 3.8         | 0           | High in vitamin E, magnesium
+Salmon (Atlantic)        | 13      | 2           | 2.3         | Best food source of EPA + DHA
+Sardines                 | 9.7     | 1.3         | 1.5         | Economical; sustainable; high omega-3
+Coconut oil (refined)    | 100     | 87          | 0           | Very high saturated fat; use moderately
+Butter                   | 81      | 51          | 0.3         | Saturated fat; flavour carrier
+
+== VEGETABLES — Key Micronutrients ==
+
+Food (100g raw)          | Notable Nutrients                          | Cal
+Spinach                  | Iron, folate, vitamins K, A, C, magnesium | 23
+Kale                     | Vitamins K, A, C; calcium; manganese       | 49
+Broccoli                 | Vitamin C, K, folate; sulforaphane          | 34
+Sweet pepper (red)       | Vitamin C (3x orange), vitamin A, B6       | 31
+Carrots                  | Beta-carotene (vitamin A), fibre, potassium| 41
+Tomatoes                 | Lycopene, vitamin C and K, potassium        | 18
+Mushrooms (portobello)   | Vitamin D (if UV exposed), B vitamins, selenium | 26
+Garlic                   | Allicin (immune support), manganese, B6    | 149
+Beets                    | Nitrates (blood pressure), folate, vitamin C| 43
+Edamame (green)          | Complete protein, vitamin K, folate, iron  | 122
+Zucchini/courgette       | Vitamin C, potassium, B6; low calorie      | 17
+Cauliflower              | Vitamin C, K, folate; choline               | 25
+Lentils                  | Iron, folate, potassium, zinc               | 116 (cooked)
+Brussels sprouts         | Vitamins C, K; folate; glucosinolates       | 43
+
+== FRUITS — Key Micronutrients ==
+
+Food (100g raw)          | Notable Nutrients                          | Cal
+Blueberries              | Anthocyanins (antioxidant), vitamin C, K   | 57
+Strawberries             | Vitamin C (60mg per 100g), folate          | 32
+Mango                    | Vitamin C, A, B6; folate; quercetin        | 60
+Orange                   | Vitamin C, folate, thiamine, potassium     | 47
+Banana                   | Potassium, B6, B2, fibre                   | 89
+Avocado                  | Monounsaturated fat, potassium, folate     | 160
+Kiwi                     | Vitamin C (highest/weight), vitamin K      | 61
+Pomegranate seeds        | Punicalagins (antioxidant), vitamin C, K   | 83
+Dates (Medjool, 2 pcs)   | Potassium, magnesium, fibre, natural sugars| 66
+
+== MACROS AT A GLANCE: DAILY TARGETS (General adult, 2000 cal diet) ==
+
+Macro         | Target Range        | Notes
+Protein       | 50–175g             | 0.8g/kg body weight (sedentary) to 2.2g/kg (athlete)
+Carbohydrates | 225–325g            | 45–65% of calories; more for active individuals
+Fats          | 44–78g              | 20–35% of calories; minimise saturated fat
+Saturated fat | < 22g               | Less than 10% of calories
+Fibre         | 25–38g              | 25g women / 38g men; most people get ~15g
+Sodium        | < 2300mg            | Equivalent to ~1 tsp salt; much less for hypertension
+Sugar (added) | < 25–50g            | WHO recommends < 10% of energy from free sugars
+
+== COOKING'S EFFECT ON NUTRIENTS ==
+
+Heat-sensitive vitamins (partially lost during cooking):
+- Vitamin C: Destroyed by heat and water. Steam or eat raw. Water-boiled vegetables lose 50-80%.
+- Folate (B9): Sensitive to heat and light. Prefer raw greens when possible.
+- Thiamine (B1): Water-soluble; leaches into cooking liquid. Use the cooking water in sauces.
+
+Heat-stable or enhanced by cooking:
+- Lycopene (tomatoes): Bioavailability increases significantly when cooked with fat.
+- Beta-carotene (carrots): Cooking + fat increases absorption ~6x vs raw.
+- Iron (spinach): Cooking reduces oxalates that block iron absorption.
+- Sulforaphane (broccoli): Maximise by eating raw or at >3 min boil. Brief steaming is optimal.
+
+Retain nutrients tips:
+1. Steam over boil — keeps water-soluble vitamins in the vegetable
+2. Minimal water — if boiling, use as little as possible; use the water in soups/gravies
+3. Don't over-peel — many vitamins are in or just under the skin
+4. Shorter cooking time — the less time above 100°C, the more nutrients remain
+5. Eat fat with vegetables — particularly for fat-soluble vitamins A, D, E, K and carotenoids

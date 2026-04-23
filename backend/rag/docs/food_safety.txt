@@ -1,0 +1,158 @@
+FOOD SAFETY: TEMPERATURES, STORAGE & CROSS-CONTAMINATION
+=========================================================
+
+Essential food safety knowledge to prevent foodborne illness and ensure safe cooking practices.
+
+== SAFE MINIMUM INTERNAL COOKING TEMPERATURES ==
+
+Always use a food thermometer inserted into the thickest part of the food (away from bone, fat, gristle).
+
+Meat & Poultry:
+Food                              | Safe Temp (°C) | Safe Temp (°F) | Rest Time
+Whole poultry (chicken, turkey)   | 74             | 165            | 3 minutes
+Poultry pieces (breast, thigh)    | 74             | 165            | 3 minutes
+Ground poultry (burgers, meatball)| 74             | 165            | None needed
+Ground beef/pork/lamb             | 71             | 160            | None needed
+Beef steaks (whole cut)           | 63             | 145            | 3 minutes
+Pork (whole cuts, chops, ribs)    | 63             | 145            | 3 minutes
+Veal                              | 63             | 145            | 3 minutes
+Lamb (whole cuts)                 | 63             | 145            | 3 minutes
+Lamb (ground)                     | 71             | 160            | None needed
+Ham (raw, fresh)                  | 63             | 145            | 3 minutes
+Ham (pre-cooked, reheating)       | 60             | 140            | None needed
+Rabbit                            | 74             | 165            | 3 minutes
+Venison/game                      | 74             | 165            | 3 minutes
+
+Seafood:
+Food                              | Safe Temp (°C) | Safe Temp (°F) | Notes
+Fish (all types)                  | 63             | 145            | Flakes easily, opaque
+Shrimp, lobster, crab             | 74             | 165            | Shell turns pink, flesh opaque
+Clams, oysters, mussels           | 74             | 165            | Shell opens; discard closed ones
+Scallops                          | 63             | 145            | Milky white, firm
+Squid, octopus                    | 74             | 165            | Firm and white
+
+Eggs & Egg Dishes:
+Food                              | Safe Temp (°C) | Safe Temp (°F)
+Eggs (fried, poached, scrambled)  | 71             | 160 (entire egg solid)
+Egg dishes (quiche, frittata)     | 71             | 160
+Casseroles with eggs              | 74             | 165
+
+Reheating & Leftovers:
+- All leftovers and pre-cooked foods: Reheat to 74°C (165°F) internal temperature
+- Soups, sauces, gravies: Bring to a rolling boil
+- Do not reheat food more than once
+
+Danger Zone: 4°C to 60°C (40°F to 140°F)
+Bacteria multiply rapidly in this range. Never leave perishable food in this zone for more than 2 hours (1 hour if ambient temp is above 32°C/90°F).
+
+== REFRIGERATOR STORAGE TIMES ==
+
+Meat & Poultry (raw):
+Food                              | Fridge (4°C)  | Freezer (-18°C)
+Ground beef/pork/poultry          | 1–2 days      | 3–4 months
+Chicken/turkey (whole)            | 1–2 days      | 12 months
+Chicken/turkey (pieces)           | 1–2 days      | 9 months
+Beef steaks, roasts               | 3–5 days      | 6–12 months
+Pork chops, roasts                | 3–5 days      | 4–6 months
+Lamb chops                        | 3–5 days      | 6–9 months
+Fish (lean, e.g., cod, tilapia)   | 1–2 days      | 6 months
+Fish (oily, e.g., salmon, tuna)   | 1–2 days      | 3 months
+Shrimp/prawns                     | 1–2 days      | 6 months
+
+Cooked Food:
+Food                              | Fridge (4°C)  | Freezer (-18°C)
+Cooked poultry                    | 3–4 days      | 4 months
+Cooked beef/pork/lamb             | 3–4 days      | 3 months
+Cooked fish/seafood               | 3–4 days      | 3 months
+Soups and stews                   | 3–4 days      | 4–6 months
+Casseroles                        | 3–5 days      | 3–4 months
+Cooked rice/pasta                 | 3–5 days      | 1–2 months
+Fresh pasta (cooked)              | 1–3 days      | 2 months
+Pizza (cooked)                    | 3–4 days      | 2 months
+Quiche                            | 3–4 days      | 1–2 months
+
+Dairy:
+Food                              | Fridge (4°C)
+Milk                              | Use by date
+Hard cheese (cheddar, parmesan)   | 2–4 weeks (opened)
+Soft cheese (brie, camembert)     | 1–2 weeks (opened)
+Fresh cheese (ricotta, cottage)   | 1 week (opened)
+Eggs (in shell, pasteurised)      | 3–5 weeks
+Hard-boiled eggs                  | 1 week (unpeeled), 5 days (peeled in water)
+Butter                            | 1–3 months
+Yogurt                            | 1–2 weeks (opened)
+Heavy cream                       | 1 week (opened)
+
+Produce:
+Food                              | Fridge        | Room Temp     | Notes
+Avocados (ripe)                   | 2–3 days      | Ripen at room  | Don't chill unripe
+Tomatoes                          | Not ideal     | 5–7 days       | Fridge kills flavour + texture
+Bananas                           | Peel browns   | 5–7 days       | Fridge fine once peeled
+Potatoes                          | Not ideal     | Cool dark place | Fridge increases sugar
+Garlic (whole)                    | Not needed    | 3–5 months     | Cool, dry, ventilated
+Onions                            | Not needed    | 1–2 months     | Keep away from potatoes
+Leafy greens (bagged)             | 3–7 days      | N/A            | Store dry; do not wash until use
+Berries (fresh)                   | 3–5 days      | 1 day          | Do not wash until eating
+Citrus fruits                     | 2–4 weeks     | 1 week         | Both work
+Carrots                           | 2–4 weeks     | N/A            | Store in water for crunch
+Broccoli                          | 3–5 days      | N/A
+Herbs (fresh, leafy)              | 1 week        | N/A            | Store upright in water like flowers
+Herbs (fresh, hardy: rosemary)    | 2 weeks       | N/A            | Wrapped in damp paper towel
+
+== CROSS-CONTAMINATION PREVENTION ==
+
+Colour-coded cutting board system:
+- Red: Raw meat (beef, pork, lamb)
+- Yellow: Raw poultry (chicken, turkey, duck)
+- Blue: Raw seafood
+- Green: Produce (vegetables and fruit)
+- White: Dairy and bakery
+- Brown/Tan: Cooked food and ready-to-eat
+
+Hand washing:
+- Wash hands with soap for minimum 20 seconds before and after handling raw protein
+- Wash after touching eyes, nose, mouth, or phone during cooking
+- Sanitise sink, counters, and handles after working with raw poultry
+
+Refrigerator organisation (top to bottom, by required cooking temperature):
+1. Top shelves: Ready-to-eat foods, leftovers, cooked food (labelled with date)
+2. Middle shelves: Dairy, eggs
+3. Lower shelves: Raw seafood
+4. Bottom drawer: Raw poultry (lowest shelf = lowest contamination risk if drips)
+5. Separate drawer if available: Raw beef/pork/lamb
+
+Thawing safely (never on counter at room temperature):
+- Best method: In fridge overnight (allows slow, safe thaw)
+- Quick method: Submerged in cold water (change water every 30 min); cook immediately after
+- Microwave method: Defrost setting; cook immediately after — some areas partially cook
+- Never refreeze thawed raw protein without cooking it first
+
+Marinating rules:
+- Always marinate in the refrigerator, not on the counter
+- Never reuse marinade as a sauce without boiling it first for 3 minutes
+- Use separate utensils for raw and cooked meat in the same session
+
+== HIGH-RISK FOODS (Extra caution required) ==
+
+- Raw or undercooked eggs: Risk of Salmonella. Use pasteurised eggs for raw preparations (hollandaise, Caesar dressing, tiramisu, mousse).
+- Raw or undercooked poultry: Salmonella and Campylobacter. Always reach 74°C internal.
+- Raw shellfish: Vibrio bacteria. High risk for immunocompromised individuals.
+- Raw or undercooked pork: Yersinia and Trichinella (much rarer now but still present). Minimum 63°C.
+- Raw sprouts (bean sprouts, alfalfa): Warm moist environment ideal for E. coli/Salmonella. Cook before consuming if vulnerable.
+- Unpasteurised milk and soft cheeses: Listeria risk; avoid during pregnancy.
+- Rice (cooked, stored): Bacillus cereus survives cooking and toxin forms at room temperature. Cool within 1 hour; refrigerate and use within 3–5 days. Reheat thoroughly.
+- Cut melons: Bacteria colonise cut surface quickly. Refrigerate immediately; use within 3 days.
+
+== SAFE FOOD COOLING ==
+
+Large batches of hot food must be cooled quickly to avoid bacterial growth:
+- Cool from 60°C to 20°C within 2 hours
+- Cool from 20°C to 4°C within 4 hours (total: 6 hours maximum)
+
+Methods to speed cooling:
+- Divide into smaller shallow containers (increases surface area)
+- Place pot in ice bath in sink; stir every 15 minutes
+- Stir with a chilled metal spoon or cooling paddle
+- Place in blast chiller if available
+
+Labelling: Always label refrigerated/frozen leftovers with: Content + Date stored
