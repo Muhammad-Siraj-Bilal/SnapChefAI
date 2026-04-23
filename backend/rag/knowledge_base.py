@@ -27,9 +27,13 @@ _embeddings: HuggingFaceEmbeddings | None = None
 def get_embeddings() -> HuggingFaceEmbeddings:
     global _embeddings
     if _embeddings is None:
+        cache_folder = os.path.join(CHROMA_PERSIST_DIR, "models")
+        os.makedirs(cache_folder, exist_ok=True)
+        
         logger.info(f"Loading embedding model: {EMBEDDING_MODEL}")
         _embeddings = HuggingFaceEmbeddings(
             model_name=EMBEDDING_MODEL,
+            cache_folder=cache_folder,
             model_kwargs={"device": "cpu"},
             encode_kwargs={"normalize_embeddings": True},
         )
