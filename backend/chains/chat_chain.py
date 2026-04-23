@@ -223,11 +223,11 @@ async def process_cooking_chat_v5(
     rag_context = ""
     # ── 3. Contextual Retrieval (RAG) — Search library for every request ──
     rag_context = get_relevant_context(message)
-        if rag_context:
-            logger.info(f"[chat] RAG context retrieved ({len(rag_context)} chars)")
-        else:
-            # Maybe search for general dish info if it's about the current dish
-            rag_context = get_relevant_context(current_dish, k=1)
+    if rag_context:
+        logger.info(f"[chat] RAG context retrieved ({len(rag_context)} chars)")
+    else:
+        # Maybe search for general dish info if it's about the current dish
+        rag_context = get_relevant_context(current_dish, k=1)
 
     # ── Build LLM chat reply ──
     llm = ChatGroq(model="llama-3.1-8b-instant", temperature=0.7, max_tokens=300)
