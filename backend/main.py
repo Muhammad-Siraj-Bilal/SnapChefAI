@@ -74,20 +74,19 @@ logger = logging.getLogger(__name__)
 async def lifespan(app: FastAPI):
     logger.info("SnapChef AI starting up...")
     
-    # ── Background Pre-warm ──
-    # We do this in a task so it doesn't block the server from starting and 
-    # passing Render's health check.
+    # ── Background Pre-warm (Threaded) ──
+    # We use to_thread because model loading is CPU-bound and would otherwise
+    # block the event loop, preventing the server from binding to the port.
     import asyncio
-    async def _pre_warm():
+    def _do_pre_warm():
         try:
             from rag.knowledge_base import get_vector_store
-            # This handles the heavy lifting without blocking the main event loop
             get_vector_store()
-            logger.info("SnapChef AI: RAG knowledge base pre-warmed in background.")
+            logger.info("SnapChef AI: RAG knowledge base pre-warmed in background thread.")
         except Exception as e:
-            logger.warning(f"Background pre-warm failed: {e}")
+            logger.warning(f"Threaded pre-warm failed: {e}")
 
-    asyncio.create_task(_pre_warm())
+    asyncio.create_task(asyncio.to_thread(_do_pre_warm))
     
     yield
     logger.info("SnapChef AI shutting down.")
