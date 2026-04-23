@@ -11,6 +11,14 @@ from contextlib import asynccontextmanager
 from dotenv import load_dotenv
 load_dotenv()
 
+# RENDER STABILITY PATCH: ChromaDB requires a newer sqlite3 version than what's often on Render/Railway.
+try:
+    import pysqlite3
+    import sys
+    sys.modules["sqlite3"] = pysqlite3
+except ImportError:
+    pass
+
 from typing import Optional
 from fastapi import FastAPI, UploadFile, File, Form, HTTPException, BackgroundTasks, Request
 from fastapi.middleware.cors import CORSMiddleware
