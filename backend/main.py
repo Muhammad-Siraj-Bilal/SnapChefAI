@@ -73,14 +73,22 @@ logger = logging.getLogger(__name__)
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     logger.info("SnapChef AI starting up...")
-    # PRE-WARM: Load the embedding model and vector store into memory immediately on boot
-    try:
-        from rag.knowledge_base import get_vector_store
-        # This triggers the download/loading of the model during server bootup
-        get_vector_store() 
-        logger.info("SnapChef AI: RAG knowledge base pre-warmed and ready.")
-    except Exception as e:
-        logger.warning(f"Failed to pre-warm RAG: {e}")
+    
+    # ── Background Pre-warm ──
+    # We do this in a task so it doesn't block the server from starting and 
+    # passing Render's health check.
+    import asyncio
+    async def _pre_warm():
+        try:
+            from rag.knowledge_base import get_vector_store
+            # This handles the heavy lifting without blocking the main event loop
+            get_vector_store()
+            logger.info("SnapChef AI: RAG knowledge base pre-warmed in background.")
+        except Exception as e:
+            logger.warning(f"Background pre-warm failed: {e}")
+
+    asyncio.create_task(_pre_warm())
+    
     yield
     logger.info("SnapChef AI shutting down.")
 
