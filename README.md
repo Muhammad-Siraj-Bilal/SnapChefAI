@@ -2,6 +2,10 @@
 
 > A deployed multimodal AI cooking assistant that turns food/ingredient images into personalized recipes, then continues as a chatbot adapting recipes based on allergies, location, budget, health goals, cuisine preference, and available ingredients.
 
+# Live Demo
+
+https://drive.google.com/file/d/1WE28eIfvBYRbL_7efrIDj_E2lPP2oFpM/view?usp=sharing
+
 ## Tech Stack
 
 | Layer | Technology |
