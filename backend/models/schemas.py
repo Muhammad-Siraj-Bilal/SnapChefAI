@@ -5,7 +5,7 @@ All request/response models for the API.
 
 from __future__ import annotations
 from pydantic import BaseModel, Field
-from typing import Optional
+from typing import Optional, List, Dict, Any
 
 
 # ─────────────────────────────────────────────
@@ -23,9 +23,9 @@ class UserPreferences(BaseModel):
     allergies: Allergies = Field(default_factory=Allergies)
     budget_level: str = "medium"          # "low" | "medium" | "high"
     health_focus: str = "balanced"        # "balanced" | "high_protein" | "low_carb" | "keto" | "vegan" | "vegetarian"
-    equipment: list[str] = Field(default_factory=lambda: ["stovetop", "oven"])
+    equipment: List[str] = Field(default_factory=lambda: ["stovetop", "oven"])
     servings: int = 2
-    cuisine_preference: list[str] = Field(default_factory=list)  # e.g. ["italian", "indian"]
+    cuisine_preference: List[str] = Field(default_factory=list)  # e.g. ["italian", "indian"]
     city: Optional[str] = None            # For weather suggestions
 
 
@@ -39,8 +39,8 @@ class RecipeDetail(BaseModel):
     cook_time: str = "30 minutes"
     difficulty: str = "Medium"            # "Easy" | "Medium" | "Hard"
     servings: int = 2
-    ingredients: list[str] = Field(default_factory=list)
-    steps: list[str] = Field(default_factory=list)
+    ingredients: List[str] = Field(default_factory=list)
+    steps: List[str] = Field(default_factory=list)
 
 
 # ─────────────────────────────────────────────
@@ -66,14 +66,14 @@ class RecipeResponse(BaseModel):
     confidence_label: str                  # "High" | "Medium" | "Low/Uncertain"
     is_uncertain: bool = False
     uncertainty_message: Optional[str] = None
-    detected_ingredients: list[str] = Field(default_factory=list)
+    detected_ingredients: List[str] = Field(default_factory=list)
     recipe: RecipeDetail = Field(default_factory=RecipeDetail)
-    substitutions: list[str] = Field(default_factory=list)
-    allergy_warnings: list[str] = Field(default_factory=list)
+    substitutions: List[str] = Field(default_factory=list)
+    allergy_warnings: List[str] = Field(default_factory=list)
     healthier_version: Optional[str] = None
     budget_version: Optional[str] = None
-    shopping_list: list[str] = Field(default_factory=list)
-    cuisine_twists: dict[str, str] = Field(default_factory=dict)
+    shopping_list: List[str] = Field(default_factory=list)
+    cuisine_twists: Dict[str, str] = Field(default_factory=dict)
     nutrition_note: str = ""
     session_id: str = ""
 
@@ -83,7 +83,7 @@ class ChatResponse(BaseModel):
     updated_recipe: Optional[RecipeResponse] = None
     action_taken: str = "chat"
     requires_confirmation: bool = False
-    suggested_actions: list[str] = Field(default_factory=list)
+    suggested_actions: List[str] = Field(default_factory=list)
     new_dish_name: str = ""
     current_dish_name: str = ""
     guardrail_stats: Optional[GuardrailStats] = None
@@ -108,8 +108,8 @@ class GuardrailStats(BaseModel):
     total_blocked: int
     total_flagged_warnings: int
     block_rate_pct: float
-    by_category: dict[str, int]
-    by_endpoint: dict[str, int]
+    by_category: Dict[str, int]
+    by_endpoint: Dict[str, int]
 
 
 # ─────────────────────────────────────────────
@@ -120,7 +120,7 @@ class VisionOutput(BaseModel):
     """Output from the vision identification chain."""
     dish_name: str = Field(description="Name of the identified dish or 'Unknown'")
     confidence: float = Field(description="Confidence score between 0.0 and 1.0", ge=0.0, le=1.0)
-    detected_ingredients: list[str] = Field(description="List of detected ingredients")
+    detected_ingredients: List[str] = Field(description="List of detected ingredients")
     is_food: bool = Field(description="Whether the image contains food/ingredients")
     notes: str = Field(description="Any notes about uncertainty or ambiguity", default="")
 
@@ -132,12 +132,12 @@ class FullRecipeOutput(BaseModel):
     cook_time: str = "30 minutes"
     difficulty: str = "Medium"
     servings: int = 2
-    ingredients: list[str] = Field(default_factory=list)
-    steps: list[str] = Field(default_factory=list)
-    substitutions: list[str] = Field(default_factory=list)
-    allergy_warnings: list[str] = Field(default_factory=list)
+    ingredients: List[str] = Field(default_factory=list)
+    steps: List[str] = Field(default_factory=list)
+    substitutions: List[str] = Field(default_factory=list)
+    allergy_warnings: List[str] = Field(default_factory=list)
     healthier_version: str = ""
     budget_version: str = ""
-    shopping_list: list[str] = Field(default_factory=list)
-    cuisine_twists: dict[str, str] = Field(default_factory=dict)
+    shopping_list: List[str] = Field(default_factory=list)
+    cuisine_twists: Dict[str, str] = Field(default_factory=dict)
     nutrition_note: str = ""

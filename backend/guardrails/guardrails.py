@@ -5,6 +5,7 @@ Includes prompt injection defence, allergen scanning, and output validation.
 """
 
 import logging
+from typing import List, Tuple
 from models.schemas import VisionOutput, UserPreferences
 
 # Re-export injection guard for convenience
@@ -104,7 +105,7 @@ def check_non_food(is_food: bool) -> tuple[bool, str]:
     return False, ""
 
 
-def check_unsafe_request(message: str) -> tuple[bool, str]:
+def check_unsafe_request(message: str) -> Tuple[bool, str]:
     """Returns (is_blocked, error_message) if request contains unsafe content."""
     message_lower = message.lower()
     for pattern in UNSAFE_PATTERNS:
@@ -117,14 +118,14 @@ def check_unsafe_request(message: str) -> tuple[bool, str]:
 
 
 def scan_ingredients_for_allergens(
-    ingredients: list[str],
+    ingredients: List[str],
     preferences: UserPreferences,
-) -> list[str]:
+) -> List[str]:
     """
     Scans ingredient list for allergen keywords based on user preferences.
     Returns list of warning strings.
     """
-    warnings: list[str] = []
+    warnings: List[str] = []
     ingredients_lower = [i.lower() for i in ingredients]
     combined_text = " ".join(ingredients_lower)
 
@@ -145,12 +146,12 @@ def scan_ingredients_for_allergens(
 def validate_recipe_has_no_banned_ingredients(
     recipe_text: str,
     preferences: UserPreferences,
-) -> list[str]:
+) -> List[str]:
     """
     Checks that the generated recipe doesn't include allergen ingredients
     the user explicitly wants to avoid. Returns list of violations found.
     """
-    violations: list[str] = []
+    violations: List[str] = []
     text_lower = recipe_text.lower()
     allergy_dict = preferences.allergies.model_dump()
 
