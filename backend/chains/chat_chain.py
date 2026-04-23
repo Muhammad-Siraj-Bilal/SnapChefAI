@@ -221,9 +221,8 @@ async def process_cooking_chat_v5(
 
     # ── Build context ──
     rag_context = ""
-    if intent == "chat":
-        # ── 3. Optimize: Only use RAG for 'chat' (questions), skip for 'modification' to save 5-8 seconds ──
-        rag_context = get_relevant_context(message)
+    # ── 3. Contextual Retrieval (RAG) — Search library for every request ──
+    rag_context = get_relevant_context(message)
         if rag_context:
             logger.info(f"[chat] RAG context retrieved ({len(rag_context)} chars)")
         else:
