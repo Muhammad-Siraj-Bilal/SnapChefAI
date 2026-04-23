@@ -225,9 +225,10 @@ def rewrite_recipe_with_instruction(
         else []
     )
 
-    # Retrieve RAG context for the specific instruction
-    rag_context = get_relevant_context(instruction, k=2)
-    logger.info(f"[rewrite_recipe] RAG context: {len(rag_context)} chars")
+    # Retrieve RAG context — OPTIMIZED: Skip for simple modifications to save 5-8s latency
+    # rag_context = get_relevant_context(instruction, k=2)
+    # logger.info(f"[rewrite_recipe] RAG context: {len(rag_context)} chars")
+    rag_context = "" 
 
     prompt = MODIFY_PROMPT.format(
         current_dish=current_dish,
