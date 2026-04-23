@@ -33,11 +33,17 @@ And it has safety checks too. So if the picture is unclear, or if something coul
 To make it work, I used a few different parts:
 
 **The face**: This is the website part that you actually see and use.
+
 **The brain**: This is the main AI (yes that fancy word you have been hearing lately) part that looks at the image, understands your request, and writes the recipe.
+
 **The memory**: This helps it remember your preferences during the conversation, like allergies, cuisine choices, budget mode, healthy mode, and what cooking tools you have.
+
 **The library**: This is where I keep useful cooking knowledge, substitutions, and food guidance so the app can give better answers.
+
 **The searcher**: This helps it look things up online in real time, like ingredient swaps, cooking tips, or extra details if needed.
+
 **The weather helper**: This lets it use weather information to suggest meals that fits the mood.
+
 **The enforcer**: This is the part that helps keep things safe by blocking harmful advice and making sure it does not poison or try to kill you.
 
 ### In one line
