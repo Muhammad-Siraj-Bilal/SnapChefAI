@@ -1,21 +1,54 @@
 # Hi Grandma! 👵
 
-Since you asked about what I've been building, here is the simple version of **SnapChef AI**, my very own personal cooking assitant.
+Since you asked what I have been building, here is the simple version of my project, **SnapChef AI**.
 
-You might have many questions, lets answer a few:
+## 1. What is it?
 
-### 1. What is it?
-Think of this like a digital kitchen assistant that's always in your pocket. You just take a picture of whatever is in your fridge or a photo of a meal you like, and the app instantly tells you exactly how to cook it. Don't worry if you dont want to snap a pic, you can tell it by typing the dish out. If you need it for more people, or want to swap out an ingredient because you ran out, you just ask it like you're talking to a friend, and it updates the recipe for you. You can also configure many other things like your dietary restrictions (that old age doesn't tret you right eh :( ), the place you live in and the hosstest dish right now for people to cook in that place, available equipment you have and whether you want a budget friendly meal too since that pension does not do you justice.
+SnapChef AI is a cooking assistant that helps you turn food pictures into recipes.
 
-### 2. The Smart Bit
-Instead of just searching through a dusty old cookbook, this app has a "brain." It can actually look at your photos to see what vegetables you have. Then, it uses all its knowledge to write a new recipe just for you on the spot. It's smart enough to know if you're allergic to nuts or if you want to eat healthier, and it automatically changes the instructions so you don't even have to think about it! And don't worry it wont poison or try to kill you cause it has been trained on not doing so.
+You can take a photo of ingredients in your fridge or a meal you like, and the app will suggest what the dish is and how to cook it. If you do not want to upload a photo, you can also type the dish or ingredients yourself.
 
-### 3. How it's made
-To make this work, I used a few different parts:
-*   **The Face:** A beautiful website that's easy to tap on and use.
-*   **The Brain:** A very clever computer program that does the thinking and talking.
-*   **The Memory:** A private library I built where the app stores all the best cooking tips so it never forgets a safe substitution.
-*   **The Searcher:** It can even check the internet in real-time to find the best alternative if you're missing an egg or garlic!
-*   **The Enforcer:** It ensures you never fall sick because of what you consume as it rejects to say any bad recipes.
+You can then chat with it like a helper in the kitchen. For example, you can ask it to:
+- make the recipe for more people
+- replace an ingredient you do not have
+- make it cheaper
+- make it healthier
+- adjust it for allergies or dietary needs
 
-It's like having a master chef and a nutritionist living in your phone! Love you Granny! ❤️
+It can also remember your preferences during the conversation, such as your food restrictions, cooking equipment, and whether you want a budget friendly meal.
+
+## 2. The smart part
+
+The smart part is the Artificial Intelligence.
+
+Instead of only looking up recipes from a fixed list, the app can look at a food image, understand what is probably in it, and generate a recipe for that situation.
+
+It can also adapt the recipe based on what the user asks. For example, if someone says they are allergic to nuts, want a healthier version, or only have an air fryer, the app changes the recipe to match those needs.
+
+It also has safety checks. If the image is unclear or the app is not confident, it should say so rather than pretend it knows the answer.
+
+## 3. How it is made
+
+The project uses a few main parts:
+
+- **The website**  
+  This is the part the user sees and interacts with.
+
+- **The Artificial Intelligence model**  
+  This is the part that understands the image, generates the recipe, and replies in chat.
+
+- **The memory**  
+  This helps the app remember the user’s preferences during the conversation.
+
+- **The knowledge store**  
+  This stores useful cooking information, substitutions, and recipe guidance so the app can give more grounded answers.
+
+- **The web search tool**  
+  This helps the app find extra information, such as ingredient alternatives or cooking tips, when needed.
+
+- **The safety layer**  
+  This helps stop unsafe suggestions and keeps allergy related checks in place.
+
+## In one sentence
+
+SnapChef AI is like a smart kitchen helper that can look at food, suggest recipes, and adapt them to the user’s needs in a simple and personal way.
