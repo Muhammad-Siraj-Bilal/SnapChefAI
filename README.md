@@ -1,6 +1,6 @@
 # SnapChef AI 👨‍🍳
 
-> A deployed multimodal AI cooking assistant that turns food/ingredient images into personalized recipes, then continues as a chatbot adapting recipes based on allergies, budget, health goals, cuisine preference, and available ingredients.
+> A deployed multimodal AI cooking assistant that turns food/ingredient images into personalized recipes, then continues as a chatbot adapting recipes based on allergies, location, budget, health goals, cuisine preference, and available ingredients.
 
 ## Tech Stack
 
